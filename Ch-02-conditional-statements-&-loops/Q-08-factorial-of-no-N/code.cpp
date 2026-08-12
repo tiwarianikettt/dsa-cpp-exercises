@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
 
+// Write a program to get the factorial of number n as output.
+
 int main() {
         int n;
         cout << "Enter the number: ";
